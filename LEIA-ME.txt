@@ -1,0 +1,12 @@
+BABZIP — SITE VITRINE DEMONSTRATIVO | NEXUS
+
+ARQUIVOS: index.html (conteúdo), style.css (visual), script.js (filtros e menu).
+TESTAR: extraia o ZIP e abra index.html no navegador.
+
+ANTES DE PUBLICAR:
+- Este conceito é independente e não foi confirmado/aprovado pelo restaurante.
+- Preços e alguns itens são fictícios para demonstração, não são valores oficiais.
+- Confirme cardápio, ingredientes, alergênicos, preços, disponibilidade, horário, telefone e endereço com o estabelecimento.
+- As informações de endereço e telefone foram transcritas do texto fornecido pelo usuário.
+- Fotos são remotas e ilustrativas; prefira fotos autorizadas do restaurante.
+- Site estático: não recebe pagamentos nem registra pedidos.
